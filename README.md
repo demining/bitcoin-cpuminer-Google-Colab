@@ -35,3 +35,10 @@ Also many issues and FAQs are covered in the forum thread
 dedicated to this program,
 	https://bitcointalk.org/?topic=1925.0;all
 
+
+----
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
